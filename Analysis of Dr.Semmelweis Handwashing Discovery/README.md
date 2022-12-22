@@ -1,0 +1,1 @@
+In this analysis, I used Dr. Semmelweis's Vienna General Hopsital data sets from 1840s. Theses data sets include information about about childbirth and women's death rates from childbed fever on monthly and annual basis. Using these data sets, I explore the effects of mandatory handwashing on death rates. 
